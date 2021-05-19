@@ -102,6 +102,7 @@ efajardo/osgvo-nsides:latest
 christinalk/slim:latest
 jonlam/osg_ubuntu:latest
 yxfu93/julia:latest
+yxfu93/julia:amd
 
 # MINT project (rynge)
 ankushumn/rsatest
